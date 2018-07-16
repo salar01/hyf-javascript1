@@ -168,32 +168,3 @@ console.log(typeof typeof bar);
 "string"
 
 console.log(The return of typeof typeof [any operand] is always a string);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
