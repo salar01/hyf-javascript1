@@ -7,4 +7,3 @@ const y = 10 / 0; // y will be infinity
 if (x===y) {console.log(true);} else {console.log(false);}
 /*"true*/
 console.log();
-
