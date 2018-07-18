@@ -1,8 +1,9 @@
 let myString = "this is a test";
-
-var res = myString.concat(myString);
-
 console.log(myString);
 this is a test
 
-console.log(myString.Lenght);
+
+myString.length;
+14
+console.log(myString.length);
+14
